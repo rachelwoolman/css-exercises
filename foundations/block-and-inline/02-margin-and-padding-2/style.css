@@ -1,5 +1,5 @@
 body {
-  background: #a7a7a7;
+  background: #efefef;
   font-family: sans-serif;
 }
 
@@ -11,21 +11,21 @@ body {
 }
 
 .title {
-  background: #add1ea;
+  background: #d1ebfd;
   padding: 8px;
   margin-top: 15px;
   margin-bottom: 8px;
 }
 
 .content {
-  background: #add1ea;
+  background: #d1ebfd;
   padding: 8px;
   margin-bottom: 10px;
 }
 
 .button-container {
   text-align: center;
-  background: #add1ea;
+  background: #d1ebfd;
   padding: 8px;
 }
 
